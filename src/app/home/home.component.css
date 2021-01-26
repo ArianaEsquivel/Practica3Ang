@@ -1,0 +1,42 @@
+@font-face
+{
+    font-family: Letters-FL;
+    src: url(../Fuentes/Letters-for-Learners.ttf)
+}
+@font-face
+{
+    font-family: Dominique;
+    src: url(../Fuentes/Dominique.otf)
+}
+@font-face
+{
+    font-family: PleaseWMAS;
+    src: url(../Fuentes/Please-write-me-a-song.ttf)
+}
+#ENh1
+{
+    text-align: center;
+    color: brown;
+    background-color: #CABEF6;
+    font-family: Dominique;
+}
+#ELbody
+{
+    font-family: PleaseWMAS;
+    font-size: 30px;
+}
+.ELli
+{
+    color: #003033;
+    width: 200px;
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-color: dimgrey;
+    text-decoration-style: dotted;
+}
+.a
+{
+    text-decoration: underline;
+    text-decoration-color: dimgrey;
+    text-decoration-style: dotted;
+}

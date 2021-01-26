@@ -1,0 +1,85 @@
+.Button
+{
+    width: 10%;
+    padding: 4px;
+    margin: 4px;
+    font-family: Letters-FL;
+    font-size: 15px;
+    background-color: #aabbdd;
+    border: none;
+}
+.Botton
+{
+    width: 40%;
+    padding: 4px;
+    margin: 4px;
+    font-family: Letters-FL;
+    font-size: 15px;
+    background-color: #aabbdd;
+    border: none;
+}
+.fuente 
+{
+  font-family: Letters-FL;
+}
+.contenedor
+{
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#TMFth1
+{
+    color: #F0BE45;
+    background-color: #FFFFC4;
+    border-radius: 6px;
+    text-align: center;
+    font-family: Dominique;
+    font-size: 40px;
+    width: 440px;
+    margin: auto;
+    margin-top: 60px;
+}
+#TMFfh1
+{
+    color: #208DB4;
+    background-color: #ffffff;
+    border-radius: 6px;
+    width: 440px;
+    text-align: center;
+    font-family: Dominique;
+    margin-left: auto;
+    margin-right: auto;
+}
+.TMFfieldset
+{
+    border-collapse: collapse;
+    border-color: #F0BE45; 
+    border-style: dashed;
+    border-radius: 6px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    box-shadow: 7px 13px 37px #000; 
+}
+#TMFbotones, .TMFlegend
+{
+    text-align: center;
+    font-size: 22px;
+    color: #202020;
+}
+.TMFlegend
+{
+    background-color: #ddd5aa;
+    border-radius: 3px;
+}
+.caja
+{
+    margin: 0 ;
+    padding: 3px;
+    width: 100%;
+    border-radius: 4px;
+}

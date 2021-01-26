@@ -1,0 +1,6 @@
+<button class="Button" routerLink="" outerLinkActive="active">Home</button>
+<div [@openClose]="isOpen ? 'open' : 'closed'" class="open-close-container" (click)="toggleButton()">
+  <p class="fuente">The box is now {{ isOpen ? 'Open' : 'Closed' }}!</p>
+</div>
+
+  
